@@ -1,0 +1,42 @@
+[
+  {
+    "title": "ZooKeeper — What Is It?",
+    "url": "https://rohitbankar.medium.com/zookeeper-what-is-it-df7e9bcba9f1",
+    "source": "Medium",
+    "date": "",
+    "summary": "High-level primer on Apache ZooKeeper and where it fits.",
+    "image": "images/blogs/zookeeper-what-is-it.jpg"
+  },
+  {
+    "title": "How AI Is Revolutionizing Project Management",
+    "url": "https://rohitbankar.medium.com/how-ai-is-revolutionizing-project-management-dab2e2acdebf",
+    "source": "Medium",
+    "date": "",
+    "summary": "Practical ways AI augments planning, execution, and delivery.",
+    "image": "images/blogs/how-ai-is-revolutionizing-project-management.jpg"
+  },
+  {
+    "title": "Chess and Life",
+    "url": "https://rohitbankar.medium.com/chess-and-life-6fed4138be34",
+    "source": "Medium",
+    "date": "",
+    "summary": "Strategy lessons from the board to everyday decisions.",
+    "image": "images/blogs/chess-and-life.jpg"
+  },
+  {
+    "title": "Supervised Learning with scikit‑learn",
+    "url": "https://medium.com/analytics-vidhya/supervised-learning-with-scikit-learn-df617631216a",
+    "source": "Analytics Vidhya (Medium)",
+    "date": "",
+    "summary": "Walkthrough of key supervised learning workflows in sklearn.",
+    "image": "images/blogs/supervised-learning-with-scikit-learn.jpg"
+  },
+  {
+    "title": "Lessons from Small Data in the Era of Big Data",
+    "url": "https://dev.to/rohit_bankar/lessons-from-small-data-in-the-era-of-big-data-3l5m",
+    "source": "Dev.to",
+    "date": "",
+    "summary": "Why small datasets still matter and how to leverage them.",
+    "image": "images/blogs/lessons-from-small-data-in-the-era-of-big-data.jpg"
+  }
+]

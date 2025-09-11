@@ -104,7 +104,8 @@
 					overlayOpacity: 0.85,
 					popupCloserText: '',
 					popupLoaderText: '',
-					selector: '.work-item a.image',
+					// Only enable popup for anchors explicitly marked for popup.
+					selector: '.work-item a.image[data-popup="true"]',
 					usePopupCaption: true,
 					usePopupDefaultStyling: false,
 					usePopupEasyClose: false,
